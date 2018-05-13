@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HXInternationlib"
-  s.version      = "1.0.4"
+  s.version      = "1.0.5"
   s.summary      = "XInternationlib"
 
   
@@ -22,8 +22,8 @@ Pod::Spec.new do |s|
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
-  s.license      = "MIT"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  #s.license      = "MIT"
+   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
